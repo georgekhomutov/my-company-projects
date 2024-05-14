@@ -16,7 +16,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/ваш_пользователь/название_проекта.git
+    git clone https://github.com/georgekhomutov/my-company-projects
     ```
 
 2. Перейдите в директорию проекта:
